@@ -1,5 +1,5 @@
 # BSTOrder
-Program makes a binary search tree based on what user inputs and then tells the user what order the tree is in such as inorder, preorder, or postorder.
+Program makes a binary search tree based on what user inputs and then traverses the tree and tells the user what order the tree was traversed in.
 
 The program can read commands such as insert remove and traverse.
 
