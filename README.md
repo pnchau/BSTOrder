@@ -4,22 +4,35 @@ Program makes a binary search tree based on what user inputs and then tells the 
 The program can read commands such as insert remove and traverse.
 
 Insert
+
 20 10 30 15 25
+
 Traverse
+
 20 10 15 30 25
+
 Remove
+
 10
+
 Traverse
+
 15 20 25 30
+
 Insert
+
 12
+
 Traverse
+
 -1
 
 Here the program will output 
 
 Preorder
+
 Inorder
+
 False
 
 False will happen because -1 is not in the tree.
