@@ -9,11 +9,11 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-    ArgumentManager am(argc, argv);
-    ifstream input(am.get("input"));
-    ofstream output(am.get("output"));
-    //ifstream input("input3.txt");
-    //ofstream output("output3.txt");
+    //ArgumentManager am(argc, argv);
+    //ifstream input(am.get("input"));
+    //ofstream output(am.get("output"));
+    ifstream input("input1.txt");
+    ofstream output("Output.txt");
 
     BST tree;
     string line = "";
